@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Counter from './counter-components/Counter'
+import Counter from './counter-components/counter'
 
 function App() {
   
